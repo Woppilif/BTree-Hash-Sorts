@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinaryTree", "BinaryTree\BinaryTree.csproj", "{286E48F4-F935-4D10-8667-7F1D54094B66}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HashTable", "HashTable\HashTable.csproj", "{30085A15-E27D-43F4-855F-A866D2F918A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sorts", "Sorts\Sorts.csproj", "{397A59CA-5E21-4F7C-BDB2-01F399D4B8A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{286E48F4-F935-4D10-8667-7F1D54094B66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{286E48F4-F935-4D10-8667-7F1D54094B66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{286E48F4-F935-4D10-8667-7F1D54094B66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{286E48F4-F935-4D10-8667-7F1D54094B66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30085A15-E27D-43F4-855F-A866D2F918A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30085A15-E27D-43F4-855F-A866D2F918A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30085A15-E27D-43F4-855F-A866D2F918A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30085A15-E27D-43F4-855F-A866D2F918A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{397A59CA-5E21-4F7C-BDB2-01F399D4B8A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{397A59CA-5E21-4F7C-BDB2-01F399D4B8A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{397A59CA-5E21-4F7C-BDB2-01F399D4B8A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{397A59CA-5E21-4F7C-BDB2-01F399D4B8A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E8251F6-617E-4172-B39C-E3031237DD65}
+	EndGlobalSection
+EndGlobal
